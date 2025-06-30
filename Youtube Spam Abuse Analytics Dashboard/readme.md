@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/adithya.prahasith/viz/Book1_1751311409055
 ---
 ## 🚀 Project Objective
 
--- This project simulates a Trust & Safety analytics dashboard for detecting and monitoring spam abuse on 2k YouTube comments across 5 videos data. 
+- This project simulates a Trust & Safety analytics dashboard for detecting and monitoring spam abuse on 2k YouTube comments across 5 videos data. 
 -Built using Tableau, it analyzes spam patterns across users, videos, and time to support operational decisions such as policy enforcement, content escalation, and abuse mitigation.
 ---
 ## 📁 Dataset
