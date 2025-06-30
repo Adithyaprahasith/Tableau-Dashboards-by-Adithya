@@ -44,7 +44,7 @@ Link: https://www.kaggle.com/datasets/ahsenwaheed/youtube-comments-spam-dataset
 - Spam comments peaked in late 2014, a small number of videos (fewer than 10) accounted for the majority of spam activity, with spam rates consistently above 40%.
 - This suggests that content-based targeting or video popularity likely played a role in attracting spam.
 - 51% of all comments in the dataset were classified as spam.
-- Repeat offenders contributed disproportionately to abuse volume.
+- Repeat authors contributed disproportionately to abuse volume.
 - Spam comments are, on average, 3x longer than clean comments — suggesting long-form promo or bot behavior.
 
 ---
@@ -57,7 +57,7 @@ https://public.tableau.com/app/profile/adithya.prahasith/viz/Book1_1751311409055
 
 ## 📌 Limitations of Current Analysis
 - Data for Moderators activity , spam review dates, escalated comments activity is not availble in this dataset
-- i suggest, adding these details to the dataset in the future would be beneficial to streamline the SLA Complaince tracking.
+- I suggest, adding these details to the dataset in the future would be beneficial to streamline the SLA Complaince tracking.
 
 ---
 - By Adithya Prahasith. 
