@@ -44,6 +44,8 @@ Link: https://www.kaggle.com/datasets/ahsenwaheed/youtube-comments-spam-dataset
 - Spam comments peaked in late 2014, a small number of videos (fewer than 10) accounted for the majority of spam activity, with spam rates consistently above 40%.
 - This suggests that content-based targeting or video popularity likely played a role in attracting spam.
 - 51% of all comments in the dataset were classified as spam.
+- Eminem -love the way you lie video has the highest spam rate - 54%, followed by party rock anthem and psy Gangnam style have approx 50%.
+- Most spammed authors are Mes, Shadrach grentz etc. 
 - Repeat authors contributed disproportionately to abuse volume.
 - Spam comments are, on average, 3x longer than clean comments — suggesting long-form promo or bot behavior.
 
