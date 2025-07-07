@@ -52,4 +52,4 @@
 - Optimized product focus to improve margins and inventory turnover
 
 ## Contact
-For collaboration or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/adithya-prahasith) or email: [adithyaprahasith@gmail.com](mailto:adithyaprahasith@gmail.com)
+For collaboration or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/adithya-prahasith) or email: [adithyaprahasith@gmail.com](mailto:adithyaprahasith@gmail.com)
